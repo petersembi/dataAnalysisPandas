@@ -1,0 +1,9 @@
+INSTRUCTIONS
+-Create a folder called new_files. Location of new_files folder should be the same as that for main_file.py
+-Rename the excel file to be analysed to stem_statement.xlsx
+-run main_file.py on the terminal
+-navigate to new_files
+-run subsidiary_file.py
+-Once these files run successfully then we have our statements ready.
+-To repeat this process, replace the earlier stem statement with the one you want to analyze
+-Also delete the earlier generated individual's excel files in the new_files folder.  
